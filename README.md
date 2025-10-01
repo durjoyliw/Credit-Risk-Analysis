@@ -258,4 +258,3 @@ This project demonstrates how data analytics can directly inform lending strateg
 ---
 
 **Dataset Source:** [Kaggle Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)  
-**Complete Analysis:** [View Jupyter Notebook →](#)
